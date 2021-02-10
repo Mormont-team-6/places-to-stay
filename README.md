@@ -1,6 +1,6 @@
 # beartnt Places-to-Stay Module
 
-> This is the more places to stay module for a mock airbnb apartment listing page. This is the development repo for creating the portion of the page that displays more places to stay nearby the main listing on the page. Visit this module [here](http://beartnt.com/)
+> This is the more places to stay module for a mock airbnb apartment listing page. This is the development repo for creating the portion of the page that displays more places to stay nearby the main listing on the page. Visit this module [here](http://beartnt.com/).
 
 ## Related Projects
 
